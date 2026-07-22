@@ -27,7 +27,7 @@
 
 ### `#2` Tech Stack `// STACK`
 
-[![Tech Stack](https://skillicons.dev/icons?i=ts,nodejs,fastify,python,react,vue,sqlite,docker,git)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,nodejs,python,go,react,vue)](https://skillicons.dev)
 
 
 * **Languages & Core**: `TypeScript` · `Node.js` · `Python` · `Fastify` · `SQLite`
