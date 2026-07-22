@@ -8,6 +8,7 @@
 [![KeZhongKe](https://img.shields.io/badge/客中客-kezhongke.cn-14143c?style=flat-square&logo=googlechrome&logoColor=white)](https://kezhongke.cn)
 [![X](https://img.shields.io/badge/X-@__010001SuTang__-2b2bd8?style=flat-square&logo=x&logoColor=white)](https://twitter.com/_010001SuTang_)
 [![Email](https://img.shields.io/badge/EMAIL-1945564086@qq.com-14143c?style=flat-square&logo=gmail&logoColor=white)](mailto:1945564086@qq.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SuTang-vain&style=flat-square&color=2b2bd8&label=PROFILE+VIEWS)](https://github.com/SuTang-vain)
 
 </div>
 
@@ -40,7 +41,16 @@ AI 开发者，Base 北京。
 
 ---
 
-### `#3` 贡献动态 `// ACTIVITY`
+### `#3` 统计面板 `// STATS`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuTang-vain&show_icons=true&bg_color=fdfdfa&title_color=2b2bd8&text_color=14143c&icon_color=2b2bd8&border_color=2b2bd8" alt="GitHub Stats">
+  <img height="165" src="https://streak-stats.demolab.com/?user=SuTang-vain&background=fdfdfa&border=2b2bd8&ring=2b2bd8&fire=2b2bd8&currStreakNum=14143c&sideNums=14143c&currStreakLabel=2b2bd8&sideLabels=14143c&dates=6b6b8a" alt="GitHub Streak">
+</div>
+
+---
+
+### `#4` 贡献动态 `// ACTIVITY`
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuTang-vain&bg_color=fdfdfa&color=14143c&line=2b2bd8&point=14143c&area=true&area_color=2b2bd8&hide_border=true" alt="Contribution Graph">
