@@ -16,11 +16,12 @@
 
 ### `#1` About `// ABOUT`
 
-Hey, I'm an AI developer tinkering with new interaction paradigms.
-​Currently obsessed with three things:
-​Generative Visuals & UI: Crafting warm, dynamic web interfaces powered by AI.
-​Multi-Agent Simulation: Watching groups of agents team up, negotiate, and evolve.
-​Context Governance: Pushing the limits of LLM memory and context scheduling.
+> Hey, I'm an AI developer tinkering with new interaction paradigms.
+> Currently obsessed with three things:
+>  * **Generative Visuals & UI**: Crafting warm, dynamic web interfaces powered by AI.
+>  * **Multi-Agent Simulation**: Watching groups of agents team up, negotiate, and evolve.
+>  * **Context Governance**: Pushing the limits of LLM memory and context scheduling.
+> 
 
 ---
 
