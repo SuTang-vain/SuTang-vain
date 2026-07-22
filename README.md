@@ -4,16 +4,16 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-sutang--vain.github.io-4E5FFD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sutang-vain.github.io/)
-[![KeZhongKe](https://img.shields.io/badge/客中客-kezhongke.cn-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kezhongke.cn)
-[![X](https://img.shields.io/badge/X-@__010001SuTang__-4E5FFD?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_010001SuTang_)
-[![Email](https://img.shields.io/badge/Email-1945564086@qq.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1945564086@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-sutang--vain.github.io-280822?style=flat-square&logo=googlechrome&logoColor=ede4d3)](https://sutang-vain.github.io/)
+[![KeZhongKe](https://img.shields.io/badge/客中客-kezhongke.cn-b98a2e?style=flat-square&logo=googlechrome&logoColor=280822)](https://kezhongke.cn)
+[![X](https://img.shields.io/badge/X-@__010001SuTang__-280822?style=flat-square&logo=x&logoColor=ede4d3)](https://twitter.com/_010001SuTang_)
+[![Email](https://img.shields.io/badge/Email-1945564086@qq.com-b98a2e?style=flat-square&logo=gmail&logoColor=280822)](mailto:1945564086@qq.com)
 
 </div>
 
 ---
 
-### `01 /` 关于我
+### `Ⅰ.` 关于我
 
 AI 开发者，Base 北京。
 
@@ -23,7 +23,7 @@ AI 开发者，Base 北京。
 
 ---
 
-### `02 /` 技术栈
+### `Ⅱ.` 技术栈
 
 <div align="center">
 
@@ -40,10 +40,12 @@ AI 开发者，Base 北京。
 
 ---
 
-### `03 /` 贡献动态
+### `Ⅲ.` 贡献动态
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuTang-vain&bg_color=f5f4f2&color=111111&line=4E5FFD&point=4E5FFD&area=true&area_color=4E5FFD&hide_border=true" alt="Contribution Graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuTang-vain&bg_color=ede4d3&color=280822&line=7f3b00&point=280822&area=true&area_color=b98a2e&hide_border=true" alt="Contribution Graph">
 </div>
 
-<!-- profile readme trigger -->
+<div align="center">
+  <sub>❦</sub>
+</div>
