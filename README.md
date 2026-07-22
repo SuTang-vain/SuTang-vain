@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="苏棠文 SuTang — AI Cognitive Architect × Agent Developer" width="100%">
+  <img src="assets/banner.png" alt="苏棠文 SuTang — AI Cognitive Architect × Agent Developer" width="100%">
 </div>
 
 <div align="center">
