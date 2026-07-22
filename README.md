@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="苏棠文 SuTang — AI Cognitive Architect × Agent Developer" width="100%">
+  <img src="assets/banner.webp" alt="SuTang — AI Cognitive Architect × Agent Developer" width="100%">
 </div>
 
 <div align="center">
@@ -14,17 +14,17 @@
 
 ---
 
-### `#1` 关于我 `// ABOUT`
+### `#1` About `// ABOUT`
 
-AI 开发者，Base 北京。
+AI developer based in Beijing, China.
 
-- 多智能体系统与社会学仿真 — Agent 协作、博弈与群体行为演化
-- 生长型认知架构与动态知识图谱 — 网状演化的知识生态，上下文压缩与本地化认知工作空间
-- TUI / CLI 极客工具链 — 轻量、高性能的终端开发者工具
+- **Multi-Agent Systems & Social Simulation** — agent cooperation, game theory and emergent group behavior
+- **Growing Cognitive Architecture & Dynamic Knowledge Graphs** — mesh-evolving knowledge ecosystems, context compression and local-first cognitive workspaces
+- **TUI / CLI Geek Tooling** — lightweight, high-performance terminal developer tools
 
 ---
 
-### `#2` 技术栈 `// STACK`
+### `#2` Tech Stack `// STACK`
 
 <div align="center">
 
@@ -32,16 +32,16 @@ AI 开发者，Base 北京。
 
 </div>
 
-| 维度 | 技术选型 |
+| Dimension | Preferences |
 | --- | --- |
-| **后端与系统** | `Node.js` · `TypeScript` · `Fastify` · `SQLite` |
-| **Agent 与认知** | 多智能体协作框架 · 动态知识图谱 · Context 压缩与管理 |
-| **交互与前端** | `TUI / CLI` · 极简 Web 界面 |
-| **开发环境** | `Linux / NixOS` · 自动化工作流 |
+| **Backend & Systems** | `Node.js` · `TypeScript` · `Fastify` · `SQLite` |
+| **Agent & Cognition** | Multi-agent collaboration frameworks · Dynamic knowledge graphs · Context compression & management |
+| **Interface & Frontend** | `TUI / CLI` · Minimalist web interfaces |
+| **Environment** | `Linux / NixOS` · Automated workflows |
 
 ---
 
-### `#3` 统计面板 `// STATS`
+### `#3` Stats `// STATS`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuTang-vain&show_icons=true&bg_color=fdfdfa&title_color=2b2bd8&text_color=14143c&icon_color=2b2bd8&border_color=2b2bd8" alt="GitHub Stats">
@@ -50,7 +50,7 @@ AI 开发者，Base 北京。
 
 ---
 
-### `#4` 贡献动态 `// ACTIVITY`
+### `#4` Activity `// ACTIVITY`
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuTang-vain&bg_color=fdfdfa&color=14143c&line=2b2bd8&point=14143c&area=true&area_color=2b2bd8&hide_border=true" alt="Contribution Graph">
