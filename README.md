@@ -45,3 +45,5 @@ AI 开发者，Base 北京。
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuTang-vain&bg_color=f5f4f2&color=111111&line=4E5FFD&point=4E5FFD&area=true&area_color=4E5FFD&hide_border=true" alt="Contribution Graph">
 </div>
+
+<!-- profile readme trigger -->
