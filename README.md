@@ -27,18 +27,10 @@
 
 ### `#2` Tech Stack `// STACK`
 
-<div align="center">
+* **Languages & Core**: `TypeScript` · `Node.js` · `Python` · `Fastify` · `SQLite`
+* **Frontend & Visuals**: Generative UI · `React` · `Vue` · `TUI / CLI`
+* **Agent & Context**: Multi-Agent Systems · Context Governance · Knowledge Graphs
 
-[![Skills](https://skillicons.dev/icons?i=ts,nodejs,fastify,python,go,react,vue,sqlite,nix,linux,git,docker&perline=6)](https://skillicons.dev)
-
-</div>
-
-| Dimension | Preferences |
-| --- | --- |
-| **Backend & Systems** | `Node.js` · `TypeScript` · `Fastify` · `SQLite` |
-| **Agent & Cognition** | Multi-agent collaboration frameworks · Dynamic knowledge graphs · Context compression & management |
-| **Interface & Frontend** | `TUI / CLI` · Minimalist web interfaces |
-| **Environment** | `Linux / NixOS` · Automated workflows |
 
 ---
 
