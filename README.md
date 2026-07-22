@@ -16,11 +16,11 @@
 
 ### `#1` About `// ABOUT`
 
-AI developer based in Beijing, China.
-
-- **Multi-Agent Systems & Social Simulation** — agent cooperation, game theory and emergent group behavior
-- **Growing Cognitive Architecture & Dynamic Knowledge Graphs** — mesh-evolving knowledge ecosystems, context compression and local-first cognitive workspaces
-- **TUI / CLI Geek Tooling** — lightweight, high-performance terminal developer tools
+Hey, I'm an AI developer tinkering with new interaction paradigms.
+​Currently obsessed with three things:
+​Generative Visuals & UI: Crafting warm, dynamic web interfaces powered by AI.
+​Multi-Agent Simulation: Watching groups of agents team up, negotiate, and evolve.
+​Context Governance: Pushing the limits of LLM memory and context scheduling.
 
 ---
 
