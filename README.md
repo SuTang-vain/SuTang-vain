@@ -14,7 +14,7 @@
 
 ---
 
-### `#1` About `// ABOUT`
+### `#1 // ABOUT`
 
  Hey, I'm an AI developer tinkering with new interaction paradigms.
  Currently obsessed with three things:
@@ -27,7 +27,7 @@
 
 ---
 
-### `#2` Stats `// STATS`
+### `#2 // STATS`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuTang-vain&show_icons=true&bg_color=fdfdfa&title_color=2b2bd8&text_color=14143c&icon_color=2b2bd8&border_color=2b2bd8" alt="GitHub Stats">
