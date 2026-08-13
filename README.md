@@ -30,7 +30,7 @@
 ### `#2 // STATS`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuTang-vain&show_icons=true&bg_color=fdfdfa&title_color=2b2bd8&text_color=14143c&icon_color=2b2bd8&border_color=2b2bd8" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats-sutang.vercel.app/api?username=SuTang-vain&show_icons=true&bg_color=fdfdfa&title_color=2b2bd8&text_color=14143c&icon_color=2b2bd8&border_color=2b2bd8" alt="GitHub Stats">
   <img height="165" src="https://streak-stats.demolab.com/?user=SuTang-vain&background=fdfdfa&border=2b2bd8&ring=2b2bd8&fire=2b2bd8&currStreakNum=14143c&sideNums=14143c&currStreakLabel=2b2bd8&sideLabels=14143c&dates=6b6b8a" alt="GitHub Streak">
 </div>
 
