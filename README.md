@@ -35,7 +35,9 @@
 </div>
 
 <div align="center">
+  <!-- 2026-11-03 隐藏：上游 github-readme-activity-graph.vercel.app 返回 402 DEPLOYMENT_DISABLED，待重做主页时替换为静态生成版本
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuTang-vain&bg_color=fdfdfa&color=14143c&line=2b2bd8&point=14143c&area=true&area_color=2b2bd8&hide_border=true" alt="Contribution Graph">
+  -->
 </div>
 
 <div align="center">
